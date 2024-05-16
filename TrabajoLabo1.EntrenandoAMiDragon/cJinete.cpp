@@ -85,6 +85,9 @@ string cJinete::LeerCaracteristicas() {
 
 }
 
-
+string cJinete::leerDRAGON(cDragon* dragoncito_asociado)
+{
+    return dragoncito_asociado->LeerNombreDragon();
+}
 
 cJinete::~cJinete() {}

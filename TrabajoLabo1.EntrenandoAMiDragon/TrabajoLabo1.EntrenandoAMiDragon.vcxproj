@@ -130,6 +130,7 @@
     <ClCompile Include="cDragon.cpp" />
     <ClCompile Include="cEntrenamiento.cpp" />
     <ClCompile Include="cJinete.cpp" />
+    <ClCompile Include="cRegistroEstoico.cpp" />
     <ClCompile Include="cVikingo.cpp" />
     <ClCompile Include="TrabajoLabo1.EntrenandoAMiDragon.cpp" />
   </ItemGroup>
@@ -137,6 +138,7 @@
     <ClInclude Include="cDragon.h" />
     <ClInclude Include="cEntrenamiento.h" />
     <ClInclude Include="cJinete.h" />
+    <ClInclude Include="cRegistroEstoico.h" />
     <ClInclude Include="cVikingo.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

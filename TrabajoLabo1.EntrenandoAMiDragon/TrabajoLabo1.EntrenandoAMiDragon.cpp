@@ -3,6 +3,7 @@
 #include "cDragon.h"
 #include "cVikingo.h"
 #include "cJinete.h"
+#include "cRegistroEstoico.h"
 
 
 int main()
@@ -20,7 +21,7 @@ int main()
     cout << "La vida luego del golpe queda en " << dragoncito1.leerVidaTotal();
 
 
-    cDragon* nuevoDragon = new cDragon("dragon Nuevo", "Feroz", "grande", "rojo", true,30000);
+    cDragon* nuevoDragon = new cDragon("dragoncito", "Feroz", "grande", "rojo", true,30000);
 
     cJinete Jinetito("Juan", "Perez", "Jinetito", "19/10/1800", "alto, pelirrojo");
     Jinetito.incorporarDragon(nuevoDragon);
@@ -37,8 +38,46 @@ int main()
     Jinetito.setResultadoEntrenamiento(APROBADO);
     cout << "Resultado del entrenamiento: ";
     Jinetito.mostrarResultadoEntrenamiento();
+    cout << Jinetito.leerDRAGON(nuevoDragon);
+
+    cRegistroEstoico registro;
+
+    cDragon* dragon1 = new cDragon("Veloz", "Dientudo", "Grande", "Negro", true, 30000);
+    cDragon* dragon2 = new cDragon("Fuego", "Furioso", "Mediano", "Rojo", true, 30000);
+
+    
+    cJinete* jinete1 = new cJinete("Juan", "Perez", "Jinetito", "19/10/1800", "alto, pelirrojo");
+    cJinete* jinete2 = new cJinete("Ana", "Garcia", "Jinetita", "01/05/1805", "baja, rubia");
+
+    // Cargar dragones y jinetes en el registro
+    registro.CargarDragon(dragon1);
+    registro.CargarDragon(dragon2);
+    registro.CargarJinete(jinete1);
+    registro.CargarJinete(jinete2);
 
 
+
+    cDragon* dragon_a_eliminar = dragon1;
+    try {
+        registro.quitar_dragon(dragon_a_eliminar);
+        std::cout << "Dragon eliminado ." << std::endl;
+    }
+    catch (std::exception& e) {
+        std::cout << e.what() << std::endl;
+    }
+    cJinete* jinete_a_eliminar = jinete1;
+    try {
+        registro.quitar_jinete(jinete_a_eliminar);
+        std::cout << "Jinete eliminado" << std::endl;
+    }
+    catch (std::exception& e) {
+        std::cout << e.what() << std::endl;
+    }
+
+    delete dragon1;
+    delete dragon2;
+    delete jinete1;
+    delete jinete2;
     delete nuevoDragon;
 
 }
