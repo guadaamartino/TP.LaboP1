@@ -4,24 +4,21 @@
 
 
 
-cRegistroEstoico::cRegistroEstoico(cJinete* jinetito, cDragon* dragoncito) {
-    
-    this->Jinetitos.push_back(jinetito);
-    this->Dragoncitos.push_back(dragoncito);
 
+
+cRegistroEstoico::cRegistroEstoico() {
+  //inicializado en vacio
 }
-
-cRegistroEstoico::cRegistroEstoico() {}
 
 
 void cRegistroEstoico::CargarDragon(cDragon* dragoncito) {
 
     if (dragoncito != nullptr) {
         Dragoncitos.push_back(dragoncito);
-        cout << "\nDragón " << dragoncito->LeerNombreDragon() << " agregado al registro." << endl;
+        cout << "\nDragon " << dragoncito->LeerNombreDragon() << " agregado al registro." << endl;
     }
     else {
-        cout << "Error: Dragón no válido." << endl;
+        cout << "Error: Dragon no válido." << endl;
     }
 }
 void cRegistroEstoico::quitar_dragon(cDragon* quito_dragon) {
