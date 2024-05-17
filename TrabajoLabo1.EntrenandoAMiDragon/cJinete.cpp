@@ -90,4 +90,14 @@ string cJinete::leerDRAGON(cDragon* dragoncito_asociado)
     return dragoncito_asociado->LeerNombreDragon();
 }
 
+int cJinete::IfJineteDomo()//funcion que verifica si tiene algun dragon asociado
+{
+    if (dragoncito != nullptr) {
+        return 1;
+    }
+
+    return 0;
+}
+
+
 cJinete::~cJinete() {}

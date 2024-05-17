@@ -31,7 +31,7 @@ public:
     void setFechadeNacimiento(string fecha_nacimiento);
     void setCaracteristicas(string caracteristicas);
     string leerDRAGON(cDragon* dragoncito_asociado);
-
+    int IfJineteDomo();
 
     ~cJinete();
 
