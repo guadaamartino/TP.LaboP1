@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cRegistroEstoico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|solutionrelative:cRegistroEstoico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cRegistroEstoico.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|solutionrelative:cRegistroEstoico.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cJinete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|solutionrelative:cJinete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cJinete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|solutionrelative:cJinete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\TrabajoLabo1.EntrenandoAMiDragon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\TrabajoLabo1.EntrenandoAMiDragon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|solutionrelative:TrabajoLabo1.EntrenandoAMiDragon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cVikingo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cVikingo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|solutionrelative:cVikingo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cDragon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|solutionrelative:cDragon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cRegistroEstoico.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|solutionrelative:cRegistroEstoico.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cVikingo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cVikingo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|solutionrelative:cVikingo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cDragon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cRegistroEstoico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|solutionrelative:cRegistroEstoico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cJinete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|solutionrelative:cJinete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cJinete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|solutionrelative:cJinete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cDragon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|solutionrelative:cDragon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cDragon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|solutionrelative:cDragon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cEntrenamiento.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cEntrenamiento.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|solutionrelative:cEntrenamiento.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cEntrenamiento.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cEntrenamiento.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3EBED38B-7099-4D44-B961-FE7B91795D3D}|TrabajoLabo1.EntrenandoAMiDragon.vcxproj|solutionrelative:cEntrenamiento.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,89 +62,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "cRegistroEstoico.cpp",
-              "DocumentMoniker": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cRegistroEstoico.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cRegistroEstoico.cpp",
               "RelativeDocumentMoniker": "cRegistroEstoico.cpp",
-              "ToolTip": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cRegistroEstoico.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cRegistroEstoico.cpp",
               "RelativeToolTip": "cRegistroEstoico.cpp",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAhwFUAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-16T20:59:27.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "cRegistroEstoico.h",
-              "DocumentMoniker": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cRegistroEstoico.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cRegistroEstoico.h",
               "RelativeDocumentMoniker": "cRegistroEstoico.h",
-              "ToolTip": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cRegistroEstoico.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cRegistroEstoico.h",
               "RelativeToolTip": "cRegistroEstoico.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-16T20:59:17.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "cJinete.h",
-              "DocumentMoniker": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cJinete.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cJinete.h",
               "RelativeDocumentMoniker": "cJinete.h",
-              "ToolTip": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cJinete.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cJinete.h",
               "RelativeToolTip": "cJinete.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAXAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-16T19:55:01.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "cVikingo.cpp",
-              "DocumentMoniker": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cVikingo.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cVikingo.cpp",
               "RelativeDocumentMoniker": "cVikingo.cpp",
-              "ToolTip": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cVikingo.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cVikingo.cpp",
               "RelativeToolTip": "cVikingo.cpp",
-              "ViewState": "AQIAABoAAAAAAAAAAADwvzEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-16T19:53:33.71Z"
+              "WhenOpened": "2024-05-16T19:53:33.71Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "cVikingo.h",
-              "DocumentMoniker": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cVikingo.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cVikingo.h",
               "RelativeDocumentMoniker": "cVikingo.h",
-              "ToolTip": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cVikingo.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cVikingo.h",
               "RelativeToolTip": "cVikingo.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-16T19:53:22.02Z"
+              "WhenOpened": "2024-05-16T19:53:22.02Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "TrabajoLabo1.EntrenandoAMiDragon.cpp",
-              "DocumentMoniker": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\TrabajoLabo1.EntrenandoAMiDragon.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\TrabajoLabo1.EntrenandoAMiDragon.cpp",
               "RelativeDocumentMoniker": "TrabajoLabo1.EntrenandoAMiDragon.cpp",
-              "ToolTip": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\TrabajoLabo1.EntrenandoAMiDragon.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\TrabajoLabo1.EntrenandoAMiDragon.cpp",
               "RelativeToolTip": "TrabajoLabo1.EntrenandoAMiDragon.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAtAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAUwDwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-16T19:49:53.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "cJinete.cpp",
-              "DocumentMoniker": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cJinete.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cJinete.cpp",
               "RelativeDocumentMoniker": "cJinete.cpp",
-              "ToolTip": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cJinete.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cJinete.cpp",
               "RelativeToolTip": "cJinete.cpp",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAhwFwAAABQAAAA",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAFgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-16T19:55:12.71Z",
               "EditorCaption": ""
@@ -153,9 +155,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "cEntrenamiento.h",
-              "DocumentMoniker": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cEntrenamiento.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cEntrenamiento.h",
               "RelativeDocumentMoniker": "cEntrenamiento.h",
-              "ToolTip": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cEntrenamiento.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cEntrenamiento.h",
               "RelativeToolTip": "cEntrenamiento.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -165,9 +167,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "cEntrenamiento.cpp",
-              "DocumentMoniker": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cEntrenamiento.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cEntrenamiento.cpp",
               "RelativeDocumentMoniker": "cEntrenamiento.cpp",
-              "ToolTip": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cEntrenamiento.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cEntrenamiento.cpp",
               "RelativeToolTip": "cEntrenamiento.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -175,11 +177,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "cDragon.cpp",
-              "DocumentMoniker": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cDragon.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cDragon.cpp",
               "RelativeDocumentMoniker": "cDragon.cpp",
-              "ToolTip": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cDragon.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cDragon.cpp",
               "RelativeToolTip": "cDragon.cpp",
               "ViewState": "AQIAADAAAAAAAAAAAADwv00AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -189,9 +191,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "cDragon.h",
-              "DocumentMoniker": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cDragon.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cDragon.h",
               "RelativeDocumentMoniker": "cDragon.h",
-              "ToolTip": "C:\\FACU\\SEGUNDO\\Labo Prog 1\\TP DRAGON\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cDragon.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\tp_labo\\TP.LaboP1\\TrabajoLabo1.EntrenandoAMiDragon\\cDragon.h",
               "RelativeToolTip": "cDragon.h",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",

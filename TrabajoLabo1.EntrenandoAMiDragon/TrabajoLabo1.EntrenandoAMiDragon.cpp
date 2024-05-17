@@ -47,15 +47,24 @@ int main()
 
     
     cJinete* jinete1 = new cJinete("Juan", "Perez", "Jinetito", "19/10/1800", "alto, pelirrojo");
+    
     cJinete* jinete2 = new cJinete("Ana", "Garcia", "Jinetita", "01/05/1805", "baja, rubia");
-
+    
     // Cargar dragones y jinetes en el registro
     registro.CargarDragon(dragon1);
     registro.CargarDragon(dragon2);
-    registro.CargarJinete(jinete1);
-    registro.CargarJinete(jinete2);
 
+    // Incorporar dragones a los jinetes (doma)
+    jinete1->incorporarDragon(dragon1);
+    jinete2->incorporarDragon(dragon2);
 
+    // Verificar si los jinetes han domado algun dragon antes de agregarlos 
+    if (jinete1->IfJineteDomo()) {
+        registro.CargarJinete(jinete1);
+    }
+    if (jinete2->IfJineteDomo() ){
+        registro.CargarJinete(jinete2);
+    }
 
     cDragon* dragon_a_eliminar = dragon1;
     try {
@@ -73,6 +82,8 @@ int main()
     catch (std::exception& e) {
         std::cout << e.what() << std::endl;
     }
+
+    //registro.ImprimirLista();
 
     delete dragon1;
     delete dragon2;
