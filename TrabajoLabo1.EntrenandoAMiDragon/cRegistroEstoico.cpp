@@ -76,13 +76,29 @@ void cRegistroEstoico::quitar_jinete(cJinete* quito_jinete) {
 }
 
 
-/*void cRegistroEstoico::ImprimirLista()
-{
-    list<cDragon*>::iterator it = this->Dragoncitos.begin();
-    while (it != this->Dragoncitos.end()) {
-        //mostrar los nombres de los dragones, leer si esta domado o no y luego recorrer la lista de jinetes y buscar a aquellos que lo hayan domado (puede ser mas de uno)
-    
-    */
+void cRegistroEstoico::ImprimirLista() {
+    list<cDragon*>::iterator itDragon = this->Dragoncitos.begin();
+    while (itDragon != this->Dragoncitos.end()) {
+        cDragon* dragon = *itDragon;
+        cout << "Nombre del dragon: " << dragon->LeerNombreDragon() << endl;
+        cout << "Estado de domado: " << (dragon->Domado_dragon() ? "Domado" : "No Domado") << endl;
+        if (dragon->Domado_dragon() == true) {//esta domado
+            cout << "Jinetes que lo han domado: " << endl;
 
+
+            list<cJinete*>::iterator itjinete = this->Jinetitos.begin();
+            while (itjinete != this->Jinetitos.end()) {
+                cJinete* jinete = *itjinete;
+                if (jinete->devolver_dragon() == dragon) {
+                    cout << jinete->LeerNombre()<<endl;
+                }
+                ++itjinete;
+            }
+        }
+        break;
+        cout << endl;
+        ++itDragon;
+    }
+}
 
 cRegistroEstoico::~cRegistroEstoico() {}

@@ -99,5 +99,15 @@ int cJinete::IfJineteDomo()//funcion que verifica si tiene algun dragon asociado
     return 0;
 }
 
+cDragon* cJinete::devolver_dragon()
+{
+    if (dragoncito == nullptr) {
+        return nullptr;
+    }
+    else {
+        return dragoncito;
+    }
+}
+
 
 cJinete::~cJinete() {}

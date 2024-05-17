@@ -47,7 +47,6 @@ int main()
 
     
     cJinete* jinete1 = new cJinete("Juan", "Perez", "Jinetito", "19/10/1800", "alto, pelirrojo");
-    
     cJinete* jinete2 = new cJinete("Ana", "Garcia", "Jinetita", "01/05/1805", "baja, rubia");
     
     // Cargar dragones y jinetes en el registro
@@ -66,6 +65,8 @@ int main()
         registro.CargarJinete(jinete2);
     }
 
+    registro.ImprimirLista();
+
     cDragon* dragon_a_eliminar = dragon1;
     try {
         registro.quitar_dragon(dragon_a_eliminar);
@@ -83,7 +84,7 @@ int main()
         std::cout << e.what() << std::endl;
     }
 
-    //registro.ImprimirLista();
+   // registro.ImprimirLista();
 
     delete dragon1;
     delete dragon2;

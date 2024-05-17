@@ -32,6 +32,7 @@ public:
     void setCaracteristicas(string caracteristicas);
     string leerDRAGON(cDragon* dragoncito_asociado);
     int IfJineteDomo();
+    cDragon* devolver_dragon();
 
     ~cJinete();
 
